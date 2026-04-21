@@ -1,9 +1,13 @@
-# *TLS Handshake*
-**hillow, i'm ember, the person behind neuron and other cool stuff**
+# *reticulating...* Hi!
+**i'm ember, nonchalant student dev and daydreamer**
 
-<img src="https://skillicons.dev/icons?i=figma,fediverse,mastodon,linux,npm,bun,nodejs,docker,git,py,golang,react&perline=6" />
+<img src="https://skillicons.dev/icons?i=linux,apple,figma,py,golang,react,docker,planetscale,aws,npm,bun,nodejs&perline=6" />
 
-i founded the neuron foundation which made saturday research, outcast, and other things. currently also have the role of owner and webmaster at outcast. thats basically what i do aside from personal projects
+### PROFESSIONAL STUFF BELOW
+i founded [neuron](https://github.com/neuronfndn), and i created outcast there with [juniper](https://orb.gay)
+### PROFESSIONAL STUFF ABOVE
+
+aside from that, i mostly just make stuff that comes up to mind, and i also tinker with AI in my free time!
 
  - "every day i wake up to make other computers do stuff from my computer"
 
