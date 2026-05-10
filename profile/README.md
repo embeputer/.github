@@ -1,7 +1,7 @@
-# *reticulating...* Hi!
+rF# *reticulating...* Hi!
 **i'm ember, nonchalant student dev and daydreamer**
 
-<img src="https://skillicons.dev/icons?i=linux,apple,figma,py,golang,react,docker,planetscale,aws,npm,bun,nodejs&perline=6" />
+<img src="https://skillicons.dev/icons?i=linux,apple,figma,py,typescript,nextjs,docker,planetscale,supabase,npm,bun,nodejs&perline=6" />
 
 ### PROFESSIONAL STUFF BELOW
 i founded [neuron](https://github.com/neuronfndn), and i created outcast there with [juniper](https://orb.gay)
