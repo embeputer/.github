@@ -1,4 +1,4 @@
-rF# *reticulating...* Hi!
+# *reticulating...* Hi!
 **i'm ember, nonchalant student dev and daydreamer**
 
 <img src="https://skillicons.dev/icons?i=linux,apple,figma,py,typescript,nextjs,docker,planetscale,supabase,npm,bun,nodejs&perline=6" />
