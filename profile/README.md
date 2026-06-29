@@ -7,7 +7,7 @@
 i founded [neuron](https://github.com/neuronfndn), and i created outcast there with [juniper](https://orb.gay)
 ### PROFESSIONAL STUFF ABOVE
 
-aside from that, i mostly just make stuff that comes up to mind, and i also tinker with AI in my free time!
+apart from my more professional work at neuron, i mostly make apps that i want to solve my daily life problems with along with other things, and i also tinker with AI/ML in my free time!
 
  - "every day i wake up to make other computers do stuff from my computer"
 
