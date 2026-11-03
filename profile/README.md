@@ -1,19 +1,15 @@
-# *reticulating...* Hi!
-**i'm ember, nonchalant student dev and daydreamer**
 
-<img src="https://skillicons.dev/icons?i=linux,apple,figma,py,typescript,nextjs,docker,planetscale,supabase,npm,bun,nodejs&perline=6" />
+<img src="https://skillicons.dev/icons?i=apple,linux,docker,go,typescript,swift,py,tensorflow,pytorch,npm,bun,nodejs&perline=6" />
 
-### PROFESSIONAL STUFF BELOW
-i founded [neuron](https://github.com/neuronfndn), and i created outcast there with [juniper](https://orb.gay)
-### PROFESSIONAL STUFF ABOVE
+### hi, i'm ember, a "brilliant"* student dev and daydreamer!
 
-apart from my more professional work at neuron, i mostly make apps that i want to solve my daily life problems with along with other things, and i also tinker with AI/ML in my free time!
+i founded [neuron](https://github.com/neuronfndn), and i'm working on [outcast](https://outcast.gay) there with [juniper](https://orb.gay)
 
- - "every day i wake up to make other computers do stuff from my computer"
+apart from my more professional work, i dabble with agents, AI/ML, making stupid apps bc why not, and overall just making software and hardware projects!
 
-    <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="30px">
-    <a href='https://ko-fi.com/chardev' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+   <a href='https://ko-fi.com/emby' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-    <div align="center">
 <img src="https://count.getloli.com/get/@vvichar?theme=rule34">
 </div>
+
+##### *that review was not fake lol, this was actually stated by a engineer at [cursor](https://cursor.com)
